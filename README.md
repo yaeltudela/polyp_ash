@@ -8,6 +8,8 @@ Link to dataset: [Google Drive](https://drive.google.com/file/d/1rmMLHohni3Vq_fZ
 - Ana García-Rodríguez (Hospital Clinic de Barcelona, anagrod4@gmail.com)
 - Glòria Fernández-Esparrach (Hospital Clinic de Barcelona, mgfernan@clinic.cat)
 
+
+
 ## Citation
 ```
 @InProceedings{10.1007/978-3-031-45249-9_4,
@@ -24,6 +26,10 @@ pages="32--42",
 isbn="978-3-031-45249-9"
 }
 ```
+### Research Use Only License
+This dataset is provided for academic and research purposes only. Any commercial use, reproduction, or distribution of this dataset, in whole or in part, is strictly prohibited.
+
+By accessing and using this dataset, you agree to use it solely for non-commercial, research purposes and acknowledge that any commercial exploitation of this dataset is expressly forbidden. Users are required to cite the dataset appropriately in any publications or presentations that result from the use of this data.
 
 
 ---

@@ -1,6 +1,7 @@
 # Swin-Expand: Fine-Grained Polyp Segmentation and Classification
 
-Link to dataset: [Google Drive](https://drive.google.com/file/d/1rmMLHohni3Vq_fZ-Ddt42vj6C6SSlkvW)
+Link to dataset: [Official website](https://pages.cvc.uab.es/ai4polypnet/)
+
 
 ## Contributors
 - Yael Tudela (Computer Vision Center, ytudela@cvc.uab.cat)
